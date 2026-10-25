@@ -233,21 +233,6 @@ body {
     border-radius: 8px;
 }
 
-.release {
-    min-height: 70vh;
-    background-color: #000000;
-    color: whitesmoke;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.release h2 {
-    font-family: monospace;
-    font-size: 48px;
-    text-align: center;
-}
 
 html {
     scroll-behavior: smooth;
